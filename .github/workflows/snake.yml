@@ -14,13 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: AIEngineerX
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#218bff,#216e39,#30a14e,#40c463
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
