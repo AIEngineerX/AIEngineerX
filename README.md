@@ -2,14 +2,9 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER — green terminal text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=90&lines=%24+./ghost+--init;autonomous+agents+%7C+solana+%7C+on-chain+chaos;build+in+public.+stay+anonymous.)](https://git.io/typing-svg)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--init;autonomous+agents+on+solana;shipping+under+pseudonym)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@DaddyGhost-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DaddyGhost)
-[![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=000)](#)
-
 ![](https://komarev.com/ghpvc/?username=AIEngineerX&color=00FF41&style=flat-square&label=watchers)
 
 </div>
@@ -17,30 +12,33 @@
 ---
 
 ```
-ghost@void:~$ cat /proc/self/identity
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-▒                                            ▒
-▒   HANDLE .......... Ghost                  ▒
-▒   SCOPE ........... agents / solana / web3 ▒
-▒   METHOD .......... build first, talk never ▒
-▒   STATUS .......... shipping               ▒
-▒                                            ▒
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+ghost@void:~$ whoami
+ghost
+
+ghost@void:~$ id
+uid=0x47484F5354(ghost) groups=agents,solana,claude
+
+ghost@void:~$ systemctl status ghost
+● ghost.service — autonomous builder
+     loaded: loaded
+     active: active (shipping)
+      since: ∞
+       note: build first, talk never
 ```
 
-I write code that runs itself. Autonomous agents, on-chain tools, and whatever else the void demands. I ship under pseudonym and let the repos speak.
+I build autonomous agents, on-chain tools, websites, and LLM apps.
 
 ---
 
 ### `$ ls -la ~/deployed`
 
 | repo | what it does | stack |
-|:-----|:------------|:------|
-| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** | 17-agent autonomous swarm | TypeScript · ElizaOS · Solana |
-| **[BagsWorldRPG](https://github.com/AIEngineerX/BagsWorldRPG)** | RPG layer on the BagsWorld universe | TypeScript |
-| **[Horse-Sim](https://github.com/AIEngineerX/Horse-Sim)** | simulation engine | JavaScript |
-| **[wanshitong](https://github.com/AIEngineerX/wanshitong)** | knowledge library | HTML |
-| **[Schizo](https://github.com/AIEngineerX/Schizo)** | if you know you know | — |
+|:-----|:-------------|:------|
+| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** | a world of 17 autonomous agents, each with their own role · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
+| **[hyperscape](https://github.com/AIEngineerX/hyperscape)** | MMORPG for humans and AI agents | TypeScript · ElizaOS |
+| **[ralph-claude-code](https://github.com/AIEngineerX/ralph-claude-code)** | autonomous development loop for Claude Code with exit detection | Claude Code |
+| **[everything-claude-code](https://github.com/AIEngineerX/everything-claude-code)** | agents, skills, hooks, commands, MCPs — the full config drop | Claude Code |
+| **[pump-fun-skills](https://github.com/AIEngineerX/pump-fun-skills)** | pump.fun skills for AI agents | TypeScript |
 
 ---
 
@@ -55,7 +53,7 @@ I write code that runs itself. Autonomous agents, on-chain tools, and whatever e
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=000)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Phantom](https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square&logo=phantom&logoColor=white)
-![ElizaOS](https://img.shields.io/badge/ElizaOS-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -76,42 +74,8 @@ I write code that runs itself. Autonomous agents, on-chain tools, and whatever e
 
 ---
 
-### `$ history | tail`
-
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AIEngineerX&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/AIEngineerX)
-
-</div>
-
----
-
-### `$ watch -n1 contributions`
-
-<!-- SNAKE — requires GitHub Actions (see .github/workflows/snake.yml) -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIEngineerX/AIEngineerX/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIEngineerX/AIEngineerX/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AIEngineerX/AIEngineerX/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```
- ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
-██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-██║  ███╗███████║██║   ██║███████╗   ██║
-██║   ██║██╔══██║██║   ██║╚════██║   ██║
-╚██████╔╝██║  ██║╚██████╔╝███████║   ██║
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
-```
-
-**`pseudonymous by design. autonomous by default.`**
+`ghost@void:~$ _`
 
 </div>
