@@ -10,7 +10,7 @@
  ██████  ██   ██  ██████  ███████    ██
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--init;autonomous+agents+on+solana;shipping+under+pseudonym)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--ship;autonomous+agents+on+solana;shipping+under+pseudonym)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@DaddyGhost-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DaddyGhost)
 ![](https://komarev.com/ghpvc/?username=AIEngineerX&color=00FF41&style=flat-square&label=visitors)
@@ -24,17 +24,15 @@ ghost@void:~$ whoami
 ghost
 
 ghost@void:~$ id
-uid=0x47484F5354(ghost) groups=agents,solana,claude
+uid=0x47484F5354(ghost) groups=builders,solana,anthropic
 
 ghost@void:~$ systemctl status ghost
-● ghost.service — autonomous builder
+● ghost.service — builder
      loaded: loaded
      active: active (shipping)
       since: ∞
        note: build first, talk never
 ```
-
-I build autonomous agents, on-chain tools, websites, and LLM apps.
 
 ---
 
@@ -42,11 +40,11 @@ I build autonomous agents, on-chain tools, websites, and LLM apps.
 
 | repo | what it does | stack |
 |:-----|:-------------|:------|
-| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** ![](https://img.shields.io/github/stars/AIEngineerX/BagsWorld?style=flat-square&label=&color=00FF41) | a world of 17 autonomous agents, each with their own role · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
+| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** ![](https://img.shields.io/github/stars/AIEngineerX/BagsWorld?style=flat-square&label=&color=00FF41) | 17 agents. 17 roles. one economy. · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
 | **[hyperscape](https://github.com/AIEngineerX/hyperscape)** ![](https://img.shields.io/github/stars/AIEngineerX/hyperscape?style=flat-square&label=&color=00FF41) | MMORPG for humans and AI agents | TypeScript · ElizaOS |
-| **[ralph-claude-code](https://github.com/AIEngineerX/ralph-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/ralph-claude-code?style=flat-square&label=&color=00FF41) | autonomous development loop for Claude Code with exit detection | Claude Code |
+| **[ralph-claude-code](https://github.com/AIEngineerX/ralph-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/ralph-claude-code?style=flat-square&label=&color=00FF41) | Claude in a loop, with a fuse. | Claude Code |
 | **[everything-claude-code](https://github.com/AIEngineerX/everything-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/everything-claude-code?style=flat-square&label=&color=00FF41) | agents, skills, hooks, commands, MCPs — the full config drop | Claude Code |
-| **[pump-fun-skills](https://github.com/AIEngineerX/pump-fun-skills)** ![](https://img.shields.io/github/stars/AIEngineerX/pump-fun-skills?style=flat-square&label=&color=00FF41) | pump.fun skills for AI agents | TypeScript |
+| **[pump-fun-skills](https://github.com/AIEngineerX/pump-fun-skills)** ![](https://img.shields.io/github/stars/AIEngineerX/pump-fun-skills?style=flat-square&label=&color=00FF41) | give your agent a pump.fun reflex | TypeScript |
 
 ---
 
