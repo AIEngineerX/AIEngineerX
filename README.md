@@ -41,10 +41,7 @@ ghost@void:~$ systemctl status ghost
 | repo | what it does | stack |
 |:-----|:-------------|:------|
 | **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** ![](https://img.shields.io/github/stars/AIEngineerX/BagsWorld?style=flat-square&label=&color=00FF41) | 17 agents. 17 roles. one economy. · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
-| **[hyperscape](https://github.com/AIEngineerX/hyperscape)** ![](https://img.shields.io/github/stars/AIEngineerX/hyperscape?style=flat-square&label=&color=00FF41) | MMORPG for humans and AI agents | TypeScript · ElizaOS |
-| **[ralph-claude-code](https://github.com/AIEngineerX/ralph-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/ralph-claude-code?style=flat-square&label=&color=00FF41) | Claude in a loop, with a fuse. | Claude Code |
 | **[everything-claude-code](https://github.com/AIEngineerX/everything-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/everything-claude-code?style=flat-square&label=&color=00FF41) | agents, skills, hooks, commands, MCPs — the full config drop | Claude Code |
-| **[pump-fun-skills](https://github.com/AIEngineerX/pump-fun-skills)** ![](https://img.shields.io/github/stars/AIEngineerX/pump-fun-skills?style=flat-square&label=&color=00FF41) | give your agent a pump.fun reflex | TypeScript |
 
 ---
 
