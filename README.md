@@ -41,7 +41,6 @@ ghost@void:~$ systemctl status ghost
 | repo | what it does | stack |
 |:-----|:-------------|:------|
 | **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** ![](https://img.shields.io/github/stars/AIEngineerX/BagsWorld?style=flat-square&label=&color=00FF41) | 17 agents. 17 roles. one economy. · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
-| **[everything-claude-code](https://github.com/AIEngineerX/everything-claude-code)** ![](https://img.shields.io/github/stars/AIEngineerX/everything-claude-code?style=flat-square&label=&color=00FF41) | agents, skills, hooks, commands, MCPs — the full config drop | Claude Code |
 
 ---
 
