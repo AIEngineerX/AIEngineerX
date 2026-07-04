@@ -3,11 +3,7 @@
 <div align="center">
 
 <pre>
- ██████  ██   ██  ██████  ███████ ████████
-██       ██   ██ ██    ██ ██         ██
-██   ███ ███████ ██    ██ ███████    ██
-██    ██ ██   ██ ██    ██      ██    ██
- ██████  ██   ██  ██████  ███████    ██
+<img width="1500" height="500" alt="ghost" src="https://github.com/user-attachments/assets/8f71451f-b1c0-43a5-91a6-b54e6219667e" />█
 </pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--ship;autonomous+agents+on+solana;shipping+under+pseudonym)](https://git.io/typing-svg)
