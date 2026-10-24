@@ -6,10 +6,9 @@
 <img width="1500" height="500" alt="ghost" src="https://github.com/user-attachments/assets/8f71451f-b1c0-43a5-91a6-b54e6219667e" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--ship;autonomous+agents+on+solana;shipping+under+pseudonym)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=680&height=60&lines=%24+./ghost+--ship;agents%2C+skills%2C+on-chain+worlds;shipping+under+pseudonym)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@DaddyGhost-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DaddyGhost)
-![](https://komarev.com/ghpvc/?username=AIEngineerX&color=00FF41&style=flat-square&label=visitors)
 
 </div>
 
@@ -32,11 +31,17 @@ ghost@void:~$ systemctl status ghost
 
 ---
 
-### `$ ls -la ~/deployed`
+### `$ ls -la ~/shipped`
 
-| repo | what it does | stack |
-|:-----|:-------------|:------|
-| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** ![](https://img.shields.io/github/stars/AIEngineerX/BagsWorld?style=flat-square&label=&color=00FF41) | 17 agents. 17 roles. one economy. · [bagsworld.app](https://www.bagsworld.app) | TypeScript · ElizaOS · Solana |
+| repo | what it does |
+|:-----|:-------------|
+| **[chaos-trader](https://github.com/AIEngineerX/chaos-trader)** | Solana trader-agent research stack: reads wallets, ranks tokens, paper-trades, ships agent skills. Never signs a transaction. `pip install chaos-trader`<br><sub>Python · Solana · Agent Skills</sub> |
+| **[BagsWorld](https://github.com/AIEngineerX/BagsWorld)** | 17 agents. 17 roles. one economy. · [bagsworld.app](https://www.bagsworld.app)<br><sub>TypeScript · ElizaOS · Solana</sub> |
+| **[pvf](https://github.com/AIEngineerX/pvf)** | pump.fun vs fomo as a live 3D battlefield. Every soldier is a real Solana trade.<br><sub>TypeScript · Three.js · Solana</sub> |
+| **[meme-scene-explorer](https://github.com/AIEngineerX/meme-scene-explorer)** | One meme still in, a 15-second cinematic restage out. The subject stays frozen; only the camera moves.<br><sub>Python · Agent Skills · Higgsfield</sub> |
+| **[XGlass](https://github.com/AIEngineerX/XGlass)** | Finds X accounts that copied your profile picture and name, plus a measured writeup of why picture-first search fails.<br><sub>Python · pHash · OSINT</sub> |
+| **[Olympus](https://github.com/AIEngineerX/Olympus)** | Read-only Hermes dashboard plugin that ranks what to tune across profiles, routes, skills and runtime health.<br><sub>Python · FastAPI · Hermes</sub> |
+| **[printr-agent-skills](https://github.com/AIEngineerX/printr-agent-skills)** | Agent skills for tokenized-agent revenue loops on Printr POB tokens.<br><sub>TypeScript · Solana · Agent Skills</sub> |
 
 ---
 
@@ -45,28 +50,14 @@ ghost@void:~$ systemctl status ghost
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=000)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Helius](https://img.shields.io/badge/Helius-FF9100?style=flat-square&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![ElizaOS](https://img.shields.io/badge/ElizaOS-1a1a1a?style=flat-square&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Agent-4B0082?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-### `$ neofetch`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AIEngineerX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=14F195&text_color=c9d1d9" alt="GitHub stats for AIEngineerX" height="170">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIEngineerX&theme=high-contrast&bg_color=0d1117&color=00FF41&line=14F195&point=c9d1d9&hide_border=true&area=true&height=170" alt="contribution activity graph" height="170">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AIEngineerX&hide_border=true&background=0d1117&ring=00FF41&fire=14F195&currStreakLabel=00FF41&sideLabels=c9d1d9&sideNums=00FF41&currStreakNum=14F195&dates=484f58" alt="commit streak for AIEngineerX">
 
 </div>
 
