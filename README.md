@@ -40,7 +40,7 @@ ghost@void:~$ systemctl status ghost
 | **[pvf](https://github.com/AIEngineerX/pvf)** | pump.fun vs fomo as a live 3D battlefield. Every soldier is a real Solana trade.<br><sub>TypeScript · Three.js · Solana</sub> |
 | **[meme-scene-explorer](https://github.com/AIEngineerX/meme-scene-explorer)** | One meme still in, a 15-second cinematic restage out. The subject stays frozen; only the camera moves.<br><sub>Python · Agent Skills · Higgsfield</sub> |
 | **[XGlass](https://github.com/AIEngineerX/XGlass)** | Finds X accounts that copied your profile picture and name, plus a measured writeup of why picture-first search fails.<br><sub>Python · pHash · OSINT</sub> |
-| **[Olympus](https://github.com/AIEngineerX/Olympus)** | Read-only Hermes dashboard plugin that ranks what to tune across profiles, routes, skills and runtime health.<br><sub>Python · FastAPI · Hermes</sub> |
+| **[Olympus](https://github.com/AIEngineerX/Olympus)** | Multi-agent dashboard for Hermes: agent status, live runs, alerts and confirmed controls. Listed in the official Hermes plugin catalog as a community plugin.<br><sub>Python · FastAPI · Hermes</sub> |
 | **[printr-agent-skills](https://github.com/AIEngineerX/printr-agent-skills)** | Agent skills for tokenized-agent revenue loops on Printr POB tokens.<br><sub>TypeScript · Solana · Agent Skills</sub> |
 
 ---
